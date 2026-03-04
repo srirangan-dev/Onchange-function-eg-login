@@ -3,7 +3,6 @@ import { useState } from "react";
 function Login(){
     const [pwd1,setPwd1] = useState("");
     const [pwd2,setPwd2] = useState("");
-
     const [same,setSame]=useState(true);
 
 
