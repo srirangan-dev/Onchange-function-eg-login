@@ -10,7 +10,6 @@ function Login(){
     function handlePwd1Change(event){
         setPwd1(event.target.value);
         console.log(event.target.value);
-
     }
     function handlePwd2Change(event){
         setPwd2(event.target.value);
