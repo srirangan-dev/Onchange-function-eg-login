@@ -23,8 +23,6 @@ function Login(){
             console.log("not Same");
             setSame(false);
         }
-
-
     }
 
 
